@@ -95,7 +95,7 @@ Note 1-Data Extraction and Setup/
 Note 2-Exploratory Data Analysis/
     note.ipynb
 docs/
-    legacy-readme.md
+    legacy_readme.md
 ```
 
 ## Installation and Reproducibility
@@ -130,4 +130,4 @@ Prioritise a reproducible data dictionary and ingestion workflow, then build con
 **Teslim Adeyanju**  
 [GitHub](https://github.com/TeslimAdeyanju) | [Portfolio](https://adeyanjuteslim.co.uk) | [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman)
 
-[Original README archive](docs/legacy-readme.md)
+[Original README archive](docs/legacy_readme.md)
